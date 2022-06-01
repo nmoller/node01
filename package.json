@@ -1,0 +1,15 @@
+{
+  "name": "yaml2js",
+  "version": "1.0.0",
+  "description": "We convert the cfn yaml parameters file to the file json for codepipeline cfn configuration.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nelson Moller <nmoller.c@gmail.com>",
+  "license": "Unlicense",
+  "dependencies": {
+    "yamljs": "^0.3.0"
+  }
+}

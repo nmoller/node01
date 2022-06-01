@@ -1,0 +1,1 @@
+{"Parameters":{"S3PrefixUrlForTemplate":"WILLBEOVERWRITTENBYPIPELINE","CustomSubnetId":"","CustomSecurityGroupId":"","BuildInstanceType":"t2.micro","ImageRecipeVersion":"0.1.41","LatestAmiId":"/aws/service/ami-amazon-linux-latest/amzn2-ami-hvm-x86_64-gp2"}}
